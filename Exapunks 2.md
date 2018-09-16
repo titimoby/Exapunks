@@ -1,0 +1,37 @@
+La vidéo Exapunks 2 est accessible par Youtube :
+https://www.youtube.com/channel/UCIrWHCZhoqje6zHwDjEJVcw
+
+#Tutorial 3
+XA:
+LINK 800
+LINK 799
+GRAB 199
+COPY F M
+COPY F M
+WIPE
+HALT
+
+XB:
+LINK 800
+LINK 800
+MAKE
+COPY M X
+COPY M F
+COPY X F
+DROP
+HALT
+
+#Tutorial 4
+LINK 800
+GRAB 200
+COPY F X
+WIPE
+LINK 800
+MAKE
+MARK LOOP
+COPY X F
+SUBI X 1 X
+TEST X = -1
+FJMP LOOP
+DROP
+HALT
