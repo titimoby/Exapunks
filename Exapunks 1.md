@@ -58,6 +58,7 @@ HALT
 L'Exa copie le contenu du <registre 1> dans le registre <registre 2>
 
 exemple : COPY F X
+
 copie la valeur en cours dans le fichier F dans le registre X
 
 **ADDI**
@@ -67,6 +68,7 @@ copie la valeur en cours dans le fichier F dans le registre X
 L'Exa additionne les valeurs contenues dans <registre 1> et <registre 2> et place le résultat dans <registre 3>
 
 exemple : ADDI X F X
+
 place X + F dans X
 
 **MULI**
@@ -76,6 +78,7 @@ place X + F dans X
 L'Exa multiplie les valeurs contenues dans <registre 1> et <registre 2> et place le résultat dans <registre 3>
 
 exemple : MULI X F X
+
 place X * F dans X
 
 **SUBI**
@@ -84,4 +87,5 @@ place X * F dans X
 L'Exa soustrait la valeur du <registre 2> à la valeur du <registre 1> et place le résultat dans <registre 3>
 
 exemple : SUBI X F X
+
 place X - F dans X
