@@ -1,6 +1,6 @@
 La vidéo Exapunks 2 est accessible par Youtube :
 
-https://www.youtube.com/channel/UCIrWHCZhoqje6zHwDjEJVcw
+https://github.com/titimoby/Exapunks/blob/master/Exapunks%202.md
 
 #Tutorial 3
 ```
