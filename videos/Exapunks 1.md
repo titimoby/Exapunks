@@ -1,6 +1,6 @@
 La vidéo Exapunks 1 est accessible par Youtube :
 
-https://youtu.be/50aiZqdcQ2o
+[https://youtu.be/50aiZqdcQ2o](https://youtu.be/50aiZqdcQ2o)
 
 # Tutorial 1
 ```
